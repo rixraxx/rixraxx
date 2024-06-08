@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, it's me Rixraxx 👋</h1>
 
-<!--
-**rixraxx/rixraxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">
+  I'm an enthusiastic programmer who codes for fun, skilled in Pygame, C++, Godot, Blender, and Unity. I love creating games and interactive experiences in my spare time.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="30" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5969/5969346.png" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://pypi-camo.freetls.fastly.net/a0731a2a71ee985354a7c36b6445bfce3cf6e287/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707967616d652f707967616d652f6d61696e2f646f63732f726553542f5f7374617469632f707967616d655f6c6f676f2e737667" height="30" alt="pygame logo"  />
+  <img width="12" />
+  <img src="https://godotengine.org/assets/press/logo_large_color_dark.png" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://www.blender.org/wp-content/uploads/2020/07/blender_logo_no_socket_white-1536x469.png" height="30" alt="python logo"  />
+</div>
+
+###
+
