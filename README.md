@@ -1,11 +1,6 @@
 <h1 align="center">Hi, it's me Rixraxx 👋</h1>
 
 ###
-
-<p align="center">
-  <img src="https://pin.it/5k8U1Dvtx" alt="Fun Programming GIF" width="400" />
-</p>
-
 <p align="left">
   I'm an enthusiastic programmer who codes for fun, skilled in Pygame, C++, Godot, Blender, and Unity. I love creating games and interactive experiences in my spare time. 🕹️
   <br>
